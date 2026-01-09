@@ -1,0 +1,11 @@
+{
+  "grupo": "Grupo 2000 - 180 Meses",
+  "total_cotas": 2500,
+  "valor_bem": 350000.0,
+  "prazo_meses": 180,
+  "sorteios_mes": 5,
+  "lances_mes": 5,
+  "taxa_administracao": 0.15,
+  "fundo_reserva": 0.02,
+  "observacoes": "Grupo com 360 cotas ja contempladas em 36 meses. 10 contemplacoes por mes."
+}
